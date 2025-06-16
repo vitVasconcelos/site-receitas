@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+    color: #333333;
+   
+}
+.young-serif{
+    font-family: "Young serif",sans-serif;
+    
+}
+.cor-marrom{
+    color: #5d0f02;
+    font-weight: normal;
+}
+main{
+    padding: 4px;
+    gap: 2rem;
+
+}
+section{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.receita{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 100px auto; 
+    font-family: "Outfit",sans-serif;
+    text-align: justify;
+    border-radius:20px;
+    font-size: 15px;
+    color: gray;
+    
+}
+body{
+    background-color: #f3e5d8;
+ 
+
+}
+img{
+    margin: 2rem;
+    border-radius: 20px;
+    padding: 2px;
+    width: 95%;
+    align-self: center;
+}
+h1{
+    padding: 4px;
+    font-size: 35px;
+    color: #333333;
+    font-weight: bolder;
+    padding-bottom: 20px;
+   
+}
+.receita{
+    background-color: #ffffff;
+    padding: 2rem;
+}
+.tempo-preparo{
+    background-color: #fff7fc;
+    padding-left: 40px;
+    border-radius:20px;
+    
+}
+h3{
+    color:#8a4b56 ;
+    padding-top: 30px;
+}
+li{
+    margin: 20px;
+}
+ol li::marker{
+    color:#5d0f02;
+}
+ol li{
+    padding-left: 20px;
+}
+ul li{
+    padding-left: 20px;
+}
+td, tr{
+    border-bottom: 1px solid #ccc; 
+    padding-left: 20px;
+}
