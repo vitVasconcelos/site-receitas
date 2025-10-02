@@ -1,6 +1,7 @@
 Site de receitas
 
 Este é um projeto simples de uma página de receitas, feito com Html e css.
+Este projeto foi desenvolvido para um desafio do Frontend Mentor https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm
 
 Prévia:
 ![image](https://github.com/user-attachments/assets/a66ebdb2-a9ef-4220-9dc2-4b15508acd66)
